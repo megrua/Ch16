@@ -1,0 +1,13 @@
+---
+title: "Awesome code"
+author: "MAR"
+date: "June 10, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+#This is an R project!
+```
+
